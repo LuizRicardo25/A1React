@@ -1,3 +1,28 @@
+# Bem-vindos ao Projeto "Primeiros Passos com React"
+
+**Caros Alunos,**
+
+Sejam bem-vindos ao projeto "Primeiros Passos com React"! Este projeto foi especialmente desenvolvido para vocês, que estão começando a jornada no mundo do React. O foco aqui é entender o funcionamento básico do React, explorar seus conceitos fundamentais e familiarizar-se com o ambiente de desenvolvimento.
+
+## Objetivo do Projeto
+O objetivo deste projeto é introduzir vocês aos princípios básicos do React de uma maneira prática e compreensível. Aqui, vocês não encontrarão componentes complexos ou funcionalidades avançadas. Em vez disso, o projeto está configurado para permitir que vocês explorem e compreendam as bases sobre as quais o React é construído.
+
+## O que vocês vão aprender
+- **Criação e Implantação do projeto React**: Aprender como criar e implantar o projeto React.
+- **Estrutura do projeto**: Como é a estrutura do projeto React.
+
+## Estrutura do Projeto
+O projeto consiste em uma série de exercícios e exemplos que ilustram como utilizar as características fundamentais do React. Vocês serão guiados passo a passo através de cada conceito, com exemplos claros e comentários explicativos.
+
+## Importância deste Projeto
+Este projeto serve como um alicerce. Ao compreenderem bem estes conceitos básicos, vocês estarão preparados para enfrentar desafios mais complexos no futuro e aproveitar ao máximo as capacidades do React.
+
+## Encorajamento para os Alunos
+Encorajamos vocês a explorarem, experimentarem e, mais importante, a se divertirem durante o aprendizado. Lembrem-se de que entender os fundamentos é crucial para se tornarem excelentes desenvolvedores React.
+
+**Boa sorte, e estamos ansiosos para ver o que vocês vão criar!**
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
