@@ -1,6 +1,6 @@
 # Bem-vindos ao Projeto "Primeiros Passos com React"
 
-**Caros Alunos,**
+**Caros Alunos ,**
 
 Sejam bem-vindos ao projeto "Primeiros Passos com React"! Este projeto foi especialmente desenvolvido para vocês, que estão começando a jornada no mundo do React. O foco aqui é entender o funcionamento básico do React, explorar seus conceitos fundamentais e familiarizar-se com o ambiente de desenvolvimento.
 
