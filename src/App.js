@@ -6,6 +6,7 @@ import Welcome from './Welcome'; // O caminho deve ser relativo ao arquivo `App.
 function App() {
 return (
 <center><div>
+<h1>AULA REACT UNISAGRADO</h1>  
 <Welcome name="Alice" />
 <Welcome name="Bob" />
 <Welcome name="Charlie" />
